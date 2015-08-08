@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="28" passed="28">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="338" started-at="2015-08-08T19:01:35Z" finished-at="2015-08-08T19:01:35Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="338" started-at="2015-08-08T19:01:35Z" finished-at="2015-08-08T19:01:35Z">
+      <class name="com.facebook.swift.parser.TestParser">
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="6" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/typedef.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="20" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/cassandra.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="3" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/hive/queryplan.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="18" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/hive/metastore.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="2" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/hive/service.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="1" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/hive/serde.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="1" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/thrift/tutorial/shared.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="2" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/thrift/tutorial/tutorial.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="3" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/thrift/test/DocTest.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="5" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/thrift/test/ThriftTest.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="2" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/thrift/test/OptionalRequiredTest.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="1" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/thrift/test/ManyTypedefs.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="3" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/thrift/test/ConstantsDemo.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="1" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/thrift/test/StressTest.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="1" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/thrift/test/ExceptionTest.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="2" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/thrift/test/JavaBeansTest.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="9" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/thrift/test/DebugProtoTest.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="3" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/thrift/test/SmallTest.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="3" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/thrift/test/ThriftSpec.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="2" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/thrift/test/AnnotationTest.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="0" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/thrift/test/PythonReservedKeywords.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="8" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/Hbase.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="2" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/fb303.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="2" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/share/fb303/if/fb303.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+        <test-method status="PASS" signature="testParse(java.nio.file.Path)[pri:0, instance:com.facebook.swift.parser.TestParser@26ba2a48]" name="testParse" duration-ms="1" started-at="2015-08-08T16:01:35Z" data-provider="thriftProvider" finished-at="2015-08-08T16:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/home/l3ug1m/projetos/git-swift-fork/thrift-java-compiler/thrift-java-compiler-idl-parser/target/test-classes/const.thrift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+      </class> <!-- com.facebook.swift.parser.TestParser -->
+      <class name="com.facebook.swift.parser.TestDocument">
+        <test-method status="PASS" signature="testDocumentFb303()[pri:0, instance:com.facebook.swift.parser.TestDocument@2c6a3f77]" name="testDocumentFb303" duration-ms="105" started-at="2015-08-08T16:01:35Z" finished-at="2015-08-08T16:01:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDocumentFb303 -->
+        <test-method status="PASS" signature="testDocumentHbase()[pri:0, instance:com.facebook.swift.parser.TestDocument@2c6a3f77]" name="testDocumentHbase" duration-ms="85" started-at="2015-08-08T16:01:35Z" finished-at="2015-08-08T16:01:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDocumentHbase -->
+        <test-method status="PASS" signature="testEmpty()[pri:0, instance:com.facebook.swift.parser.TestDocument@2c6a3f77]" name="testEmpty" duration-ms="10" started-at="2015-08-08T16:01:35Z" finished-at="2015-08-08T16:01:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmpty -->
+      </class> <!-- com.facebook.swift.parser.TestDocument -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
